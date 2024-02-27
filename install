@@ -6,8 +6,8 @@ echo installing depends
 pip install requests
 echo installig main-tool
 curl -O https://raw.githubusercontent.com/sandeepgin/tv/main/v
-mv viewsadder $PATH
-chmod +x $PATH/viewsadder
+mv v $PATH
+chmod +x $PATH/v
 clear
 figlet Installed
 echo you can now run this tool by typing v
