@@ -9,4 +9,4 @@ This script can add unlimited views on your telegram post..
 curl -sSL https://raw.githubusercontent.com/sandeepg/tv/main/install | bash
 ```
 ## follow me 
-* [Alienlrishn](https://www.instagram.com/sandeepbiswalg/")
+* [Instagram](https://www.instagram.com/sandeepbiswalg/")
