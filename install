@@ -5,10 +5,10 @@ command -v figlet > /dev/null 2>&1 || { echo >&2 "figlet not found !, Installing
 echo installing depends
 pip install requests
 echo installig main-tool
-curl -O https://raw.githubusercontent.com/Anon4You/TVAtool/main/viewsadder
+curl -O https://raw.githubusercontent.com/sandeepgin/tv/main/v
 mv viewsadder $PATH
 chmod +x $PATH/viewsadder
 clear
 figlet Installed
-echo you can now run this tool by typing viewsadder
+echo you can now run this tool by typing v
 
